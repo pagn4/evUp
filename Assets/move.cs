@@ -11,7 +11,7 @@ public class move : MonoBehaviour
     public Transform isGroundedChecker; 
     public float checkGroundRadius; 
     public LayerMask groundLayer;
-    public int jumps=0;
+    public int jumps;
     public float fallMultiplier = 2.5f; 
     public float lowJumpMultiplier = 2f;
    
