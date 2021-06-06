@@ -5516,7 +5516,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 280c22d6bf1e9fe44b234fc90a4aa1e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  x: 9
+  x: 10
 --- !u!61 &256324377
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19177,7 +19177,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4021461970714908023, guid: ca130f61f6b1b5549b71d450c3f481fb, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.37168533
+      value: 0.37165335
       objectReference: {fileID: 0}
     - target: {fileID: -4021461970714908023, guid: ca130f61f6b1b5549b71d450c3f481fb, type: 3}
       propertyPath: m_LocalRotation.y
@@ -19185,7 +19185,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4021461970714908023, guid: ca130f61f6b1b5549b71d450c3f481fb, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.9283588
+      value: 0.92837167
       objectReference: {fileID: 0}
     - target: {fileID: -1043854897446812119, guid: ca130f61f6b1b5549b71d450c3f481fb, type: 3}
       propertyPath: m_LocalRotation.w
@@ -25491,7 +25491,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4021461970714908023, guid: ca130f61f6b1b5549b71d450c3f481fb, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.37171286
+      value: 0.3716362
       objectReference: {fileID: 0}
     - target: {fileID: -4021461970714908023, guid: ca130f61f6b1b5549b71d450c3f481fb, type: 3}
       propertyPath: m_LocalRotation.y
@@ -25499,7 +25499,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4021461970714908023, guid: ca130f61f6b1b5549b71d450c3f481fb, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.9283478
+      value: 0.9283784
       objectReference: {fileID: 0}
     - target: {fileID: -1043854897446812119, guid: ca130f61f6b1b5549b71d450c3f481fb, type: 3}
       propertyPath: m_LocalRotation.w
