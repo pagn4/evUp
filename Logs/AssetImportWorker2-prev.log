@@ -1,0 +1,446 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 8043 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/agnep/Desktop/prog/evUp
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+64245
+Successfully changed project path to: C:/Users/agnep/Desktop/prog/evUp
+C:/Users/agnep/Desktop/prog/evUp
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 176.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/agnep/Desktop/prog/evUp/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56116
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010019 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 96.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.644 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.032866 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 100.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.665 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.24 seconds
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 6.919100 ms (FindLiveObjects: 0.565100 ms CreateObjectMapping: 0.250600 ms MarkObjects: 5.609600 ms  DeleteObjects: 0.490600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/level4.unity
+  artifactKey: Guid(ec3558403c544ea4089be8a116d66727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level4.unity using Guid(ec3558403c544ea4089be8a116d66727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8ad3414aadd5852ddb1b65c5546f33') in 0.043934 seconds
+  Import took 0.052893 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.600 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 5.769300 ms (FindLiveObjects: 0.354200 ms CreateObjectMapping: 0.162800 ms MarkObjects: 4.922800 ms  DeleteObjects: 0.327300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2001.996322 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f756704d71c9e80721250a8c244cc0') in 0.399645 seconds
+  Import took 0.409496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.052577 seconds.
+  path: Assets/New Animation.anim
+  artifactKey: Guid(b237fc1cabf4c084a98a1f6a41e7565e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animation.anim using Guid(b237fc1cabf4c084a98a1f6a41e7565e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '211ab2212833f337b0aafcb31969f142') in 0.028323 seconds
+  Import took 0.043558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 221.109750 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5722015cadcc2c467d76b77c00d8cbf6') in 0.070517 seconds
+  Import took 0.090486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.667735 seconds.
+  path: Assets/New Animator Controller.controller
+  artifactKey: Guid(119093d189f76464081797f95c5df6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animator Controller.controller using Guid(119093d189f76464081797f95c5df6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c86fdb498f7f31109b4095f616d8c56') in 0.020410 seconds
+  Import took 0.028736 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016933 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.939 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2345.
+Total: 5.044400 ms (FindLiveObjects: 0.324500 ms CreateObjectMapping: 0.140900 ms MarkObjects: 4.385600 ms  DeleteObjects: 0.191600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.313504 seconds.
+  path: Assets/New Animator Controller.controller
+  artifactKey: Guid(119093d189f76464081797f95c5df6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animator Controller.controller using Guid(119093d189f76464081797f95c5df6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55328c87f497808d9bc920b88aeef1fb') in 0.030362 seconds
+  Import took 0.043999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.190962 seconds.
+  path: Assets/New Animation.anim
+  artifactKey: Guid(b237fc1cabf4c084a98a1f6a41e7565e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animation.anim using Guid(b237fc1cabf4c084a98a1f6a41e7565e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc3dd1cdd160378f12ee6a039e2ed2a') in 0.012356 seconds
+  Import took 0.025997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014022 seconds.
+  path: Assets/New Animation.anim
+  artifactKey: Guid(b237fc1cabf4c084a98a1f6a41e7565e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animation.anim using Guid(b237fc1cabf4c084a98a1f6a41e7565e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc3dd1cdd160378f12ee6a039e2ed2a') in 0.006794 seconds
+  Import took 0.015518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.474021 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fb49c2682614a4b975d7ce174af438') in 0.273996 seconds
+  Import took 0.292619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 913.422589 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1150365dd059204d1bd5d2653dd7267d') in 0.127578 seconds
+  Import took 0.145611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.982761 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf71d3c0d419e824fa0146a5aa9ebc7') in 0.082551 seconds
+  Import took 0.099308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.450010 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0082aada8d847e51bfa56f2fd1e23b4e') in 0.096145 seconds
+  Import took 0.114225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.905065 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c36b5dcc717a03623370985e32156f9') in 0.074108 seconds
+  Import took 0.089651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.025051 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14db46591ba769ff4a978e523dabe7b5') in 0.097586 seconds
+  Import took 0.110176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.135134 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abc9685513a62f71b45c3aeef8927f8') in 0.117008 seconds
+  Import took 0.128145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.500733 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe9f43ee3f7f55a470132eecc140034') in 0.077674 seconds
+  Import took 0.096159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3624.463814 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1149a56559aaee964e9e8eaf39e650b8') in 0.099913 seconds
+  Import took 0.132605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.472318 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b71dc657f1f82b4c5310d28498fd58c5') in 0.093312 seconds
+  Import took 0.104084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.352784 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30815567ffb3786c4cd2bd7b4f5e227e') in 0.063425 seconds
+  Import took 0.078065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.384778 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46250281fc217e4168a423affffa413b') in 0.086440 seconds
+  Import took 0.107889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.518683 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3829f6793b775ca65e9306ee6789a62e') in 0.066678 seconds
+  Import took 0.077773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.157615 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af2b8387dfb79aea7765c64238dd0c8') in 0.072907 seconds
+  Import took 0.088725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.823535 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe99cbed149a3bf1159e920d01e1892e') in 0.091732 seconds
+  Import took 0.120245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.110427 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f33ba62403c3255864176d5f98fa05') in 0.097953 seconds
+  Import took 0.107746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.855231 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132bbbafab89cd7ba214f7359fc2e053') in 0.072545 seconds
+  Import took 0.084411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.176698 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa5110152b9e7b568b667a79fca10b9a') in 0.074788 seconds
+  Import took 0.087300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.818202 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d2a7294648483be55257291877fe63') in 0.079773 seconds
+  Import took 0.098475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.704591 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248c60505f7548c583f8124d76627839') in 0.074618 seconds
+  Import took 0.095711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.084741 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c96d4241a37c894f7ab04201c4997b') in 0.072254 seconds
+  Import took 0.089727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.932147 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83693d65a25f32d4d9d8ca39dc48b37b') in 0.078407 seconds
+  Import took 0.092299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.802799 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b733fcf77520f2352bdd194d7e46973c') in 0.075305 seconds
+  Import took 0.085542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.778644 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebaaa356efdb66696f31de2b059aed37') in 0.061056 seconds
+  Import took 0.077604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002829 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebaaa356efdb66696f31de2b059aed37') in 0.066664 seconds
+  Import took 0.076854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.454631 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d16aa15f196b962c1aef9392e0155d4') in 0.069160 seconds
+  Import took 0.083564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.119278 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964a426cf872e87f9e4dbc6415ea878d') in 0.057419 seconds
+  Import took 0.070027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.110578 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b545eea146480a11ceb5ce8095e91c2') in 0.064628 seconds
+  Import took 0.077245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.625599 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffcdd3f3b58f141c1994eec96d016d3') in 0.078101 seconds
+  Import took 0.097922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007347 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffcdd3f3b58f141c1994eec96d016d3') in 0.053358 seconds
+  Import took 0.061802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.739361 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f13ac7996ea102a720ab5b875e6342') in 0.072703 seconds
+  Import took 0.087448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.253995 seconds.
+  path: Assets/character.psb
+  artifactKey: Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.psb using Guid(7cfb9a378f2b68a47b1fdb5551633018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4dca6ae3aa4261bb0f875b61cd6e0fc') in 0.083726 seconds
+  Import took 0.099401 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

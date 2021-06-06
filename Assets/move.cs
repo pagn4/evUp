@@ -5,6 +5,7 @@ using UnityEngine;
 public class move : MonoBehaviour
 {
     Rigidbody2D rb;
+    public Animator animator;
     public float jumpForce;
     public float speed;
     bool isGrounded = false; 
@@ -14,6 +15,7 @@ public class move : MonoBehaviour
     public int jumps;
     public float fallMultiplier = 2.5f; 
     public float lowJumpMultiplier = 2f;
+    public bool right = true;
    
     void Start(){
         rb=GetComponent<Rigidbody2D>();
@@ -27,7 +29,24 @@ public class move : MonoBehaviour
     }
    
     void Move(){
-        float x=Input.GetAxisRaw("Horizontal");
+        Vector3 charscale =transform.localScale;
+        float x=Input.GetAxisRaw("Horizontal"); 
+        animator.SetFloat("speed", x);
+        if(x<0){
+            if(right == true){
+                charscale.x *=-1;
+                transform.localScale = charscale;
+                right = false;
+            }
+           
+        }
+        if(x>=0){
+            if(right != true){
+                charscale.x *=-1;
+                transform.localScale = charscale;
+                right = true;
+            }
+        }
         rb.velocity=new Vector2(x*speed, rb.velocity.y);
     }
     
@@ -55,11 +74,14 @@ public class move : MonoBehaviour
 
     void OnGround(){
         Collider2D collider = Physics2D.OverlapCircle(isGroundedChecker.position, checkGroundRadius, groundLayer); 
-                if (collider != null) { 
+                if (collider != null) {
+                    animator.SetBool("air", false); 
                     isGrounded = true; 
                 }
                 else { 
+                    animator.SetBool("air", true);
                     isGrounded = false; 
                 } 
     }
+    
 }
