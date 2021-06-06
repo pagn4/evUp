@@ -231,9 +231,9 @@ GameObject:
   m_Component:
   - component: {fileID: 16508972}
   - component: {fileID: 16508971}
-  - component: {fileID: 16508970}
   - component: {fileID: 16508969}
   - component: {fileID: 16508968}
+  - component: {fileID: 16508970}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -297,7 +297,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 16508967}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 123526cfc8a60464ea4c57cca3cb28bd, type: 3}
+  m_Script: {fileID: 11500000, guid: 2973b3130723fb648a01605e534fa5bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   jumpForce: 7

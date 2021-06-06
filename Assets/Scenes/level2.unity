@@ -575,7 +575,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &752208489
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6139,9 +6139,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1912537527}
   - component: {fileID: 1912537526}
-  - component: {fileID: 1912537528}
   - component: {fileID: 1912537529}
   - component: {fileID: 1912537530}
+  - component: {fileID: 1912537528}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -6224,7 +6224,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1912537525}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 123526cfc8a60464ea4c57cca3cb28bd, type: 3}
+  m_Script: {fileID: 11500000, guid: 2973b3130723fb648a01605e534fa5bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   jumpForce: 7

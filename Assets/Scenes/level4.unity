@@ -908,9 +908,9 @@ GameObject:
   m_Component:
   - component: {fileID: 330162529}
   - component: {fileID: 330162528}
-  - component: {fileID: 330162527}
   - component: {fileID: 330162526}
   - component: {fileID: 330162525}
+  - component: {fileID: 330162527}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -974,7 +974,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 330162524}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 123526cfc8a60464ea4c57cca3cb28bd, type: 3}
+  m_Script: {fileID: 11500000, guid: 2973b3130723fb648a01605e534fa5bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   jumpForce: 7
@@ -1917,7 +1917,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 621639832}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -34, y: 9.6, z: 0}
+  m_LocalPosition: {x: -40.2, y: 9.6, z: 0}
   m_LocalScale: {x: 1.6853769, y: 25.527128, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
