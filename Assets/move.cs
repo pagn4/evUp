@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class move : MonoBehaviour
 {
@@ -26,6 +27,9 @@ public class move : MonoBehaviour
         Move();
         Jump();
         BetterJump();
+        if(Input.GetKeyDown(KeyCode.P)){
+             SceneManager.LoadScene("level");
+        }
     }
    
     void Move(){

@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class movebeforeAnimation : MonoBehaviour
 {
     Rigidbody2D rb;
@@ -24,6 +24,9 @@ public class movebeforeAnimation : MonoBehaviour
         Move();
         Jump();
         BetterJump();
+        if(Input.GetKeyDown(KeyCode.P)){
+             SceneManager.LoadScene("level");
+        }
     }
    
     void Move(){
