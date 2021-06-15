@@ -235,3 +235,71 @@ System memory in use after: 87.6 MB.
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2343.
 Total: 9.379700 ms (FindLiveObjects: 1.848900 ms CreateObjectMapping: 0.689600 ms MarkObjects: 6.668200 ms  DeleteObjects: 0.163700 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1964.210471 seconds.
+  path: Assets/logo.png
+  artifactKey: Guid(c86ca740918256143b1447ac396f5191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/logo.png using Guid(c86ca740918256143b1447ac396f5191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc59254d19e9974089580dbd34f03898') in 0.213484 seconds
+  Import took 0.221546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 441.338402 seconds.
+  path: Assets/StartSc.cs
+  artifactKey: Guid(9303104300315634a91a5fc8cb3a345b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StartSc.cs using Guid(9303104300315634a91a5fc8cb3a345b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c5ed6a61d58a0023fe66f01c392a8b') in 0.027931 seconds
+  Import took 0.033271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001040 seconds.
+  path: Assets/StartSc.cs
+  artifactKey: Guid(9303104300315634a91a5fc8cb3a345b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StartSc.cs using Guid(9303104300315634a91a5fc8cb3a345b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c5ed6a61d58a0023fe66f01c392a8b') in 0.003563 seconds
+  Import took 0.008029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.524685 seconds.
+  path: Assets/levelSc.cs
+  artifactKey: Guid(48780d6a7624ec74a9583047bc03dabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/levelSc.cs using Guid(48780d6a7624ec74a9583047bc03dabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e167ed4ff71785c0a973045de700ca91') in 0.009422 seconds
+  Import took 0.016287 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.041210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.557 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 7.422600 ms (FindLiveObjects: 2.028000 ms CreateObjectMapping: 0.296000 ms MarkObjects: 4.948300 ms  DeleteObjects: 0.145300 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.0 MB.
+System memory in use after: 55.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 2.936500 ms (FindLiveObjects: 0.278800 ms CreateObjectMapping: 0.124500 ms MarkObjects: 2.430600 ms  DeleteObjects: 0.101200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
