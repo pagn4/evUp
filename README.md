@@ -8,4 +8,4 @@ This game features a robot character which lost its memory due to a virus. The o
 
 
 ___
-It is not prefect and has a few bugs.
+It is not perfect and has a few bugs.
